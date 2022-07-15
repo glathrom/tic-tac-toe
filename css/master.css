@@ -1,0 +1,13 @@
+table {
+    margin:auto;
+}
+
+td {
+    text-align:center;
+    border: 5px solid #000000;
+    width:150px;
+    max-width:150px;
+    height:150px;
+    max-height:150px;
+    font-size:5vw;
+}
