@@ -61,7 +61,7 @@ let winCheck = function(){
 
     if( value ){
         for( var i=0; i < 3; i++ ){
-            cells[combo[i]].style.background = "red";
+            cells[combo[i]].style.background = "green";
             cells[combo[i]].style.color="white";
         }
         winner.textContent = "Winner: " + value;
